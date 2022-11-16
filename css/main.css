@@ -1,0 +1,41 @@
+.nav-spacing {
+  margin: 0 0 0 10px;
+  text-decoration: none;
+}
+
+.nav-menu {
+  text-align: right;
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.header-text {
+  text-align: center;
+}
+
+.image-whale {
+  display: block;
+  margin: auto;
+}
+
+.report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.image-book {
+  height: 200px;
+  float: left;
+  margin: 0px 40px;
+}
+
+.citation {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
